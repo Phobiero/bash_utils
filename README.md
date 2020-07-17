@@ -1,2 +1,2 @@
 # bash_utils
-#cpu.sh - CPU monitor and stress test tool
+cpu.sh - CPU monitor and stress test tool
